@@ -1,6 +1,6 @@
 {% set name = "webruntime" %}
-{% set version = "0.5.7" %}
-{% set sha256 = "82ec9392ef46291886d03160bcb73270162e8842b378b20124d63d1ff1796acc" %}
+{% set version = "0.5.8" %}
+{% set sha256 = "ee3692b8194a8fd4aec476dcad75f05c43b3766903f7e13d4e16c1f9c433a033" %}
 
 package:
   name: {{ name }}

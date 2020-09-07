@@ -5,7 +5,7 @@ Home: http://webruntime.readthedocs.io
 
 Package license: BSD 2-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Launch web apps making them look like desktop apps.
 
